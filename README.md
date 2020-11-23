@@ -71,11 +71,11 @@ To start with project you must have next requirements
   
 ## Usage
 
-   1- The most important things are: [Read this](IMPORTANT.md)
-   
-   2- Notes: [Read this](NOTES.md)
-   
-   2- DB Design: [Read this](db_design.pdf)
+* The most important things are: [Read this](IMPORTANT.md)
+
+* Notes: [Read this](NOTES.md)
+
+* DB Design: [Read this](db_design.pdf)
    
    
 ## Test report
