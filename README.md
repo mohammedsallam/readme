@@ -122,7 +122,7 @@ we also use ImageHelper class to upload files and and resize images
 * To read DB Design: [DB Design](design.md)
 * DB Design pdf file : [DB Design file](db_design.pdf)
 * Other DB Design pdf file : [Other DB Design file](db_design_1.pdf)
-* Other DB Design png file : [Other DB Design file](db_design.png)
+* DB Design png file : [DB Design png file](db_design.png)
    
 ## Test report
 In TDD we use phpunit as unit test for each units to application,
