@@ -125,7 +125,11 @@ we also use ImageHelper class to upload files and and resize images
 * DB Design png file : [DB Design png file](db_design.png)
    
 ## Test report
-In TDD we use phpunit as unit test for each units to application,
+* In TDD we use phpunit as unit test for each units to application,
 the unit testing falled into path tests directory which contains to directory,
 Feature for test full feature for module and unit for test small unit for module,
-and in common we use feature directory for test application, and every module have test file for it
+and in common we use feature directory for test application, and every module have test file for it.
+* To run unit test execute the next command
+```php 
+"./vendor/bin/phpunit" --filter unit_test_class_name
+```
