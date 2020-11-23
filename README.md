@@ -25,11 +25,11 @@ website galleries, pages, newsletters, visitor message, users, and settings.
   
 ## Structure
 
-    Application based on laravel framework which use MVC pattern.
-    Models: it's path falled into App directley.
-    Views: it's path falled into resources\views.
-    Controllers: it's path falled into App\Http\Controllers.
-    Languages: it's path falled into  resources\lang.
+Application based on laravel framework which use MVC pattern.
+Models: it's path falled into App directley.
+Views: it's path falled into resources\views.
+Controllers: it's path falled into App\Http\Controllers.
+Languages: it's path falled into  resources\lang.
   
 ### notes about view: 
 
