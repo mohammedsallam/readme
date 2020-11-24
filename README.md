@@ -7,7 +7,7 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 - [Installation](#installation)
 - [Structure](#structure)
 - [DB design](#db-design)
-- [Test report](#test-report)
+- [Unit test](#unit-test)
 
 ## Requirements 
 * PHP version: 7.2.5 at least 
@@ -25,7 +25,7 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 ## DB design 
 * Read [DB design](design.md).
   
-## Test report
+## Unit test
 * In TDD we use phpunit as unit test for each units to application.
 * The unit testing falled into path `tests` directory which contains two directory.
 * The first is `Feature` for test full feature for module.
