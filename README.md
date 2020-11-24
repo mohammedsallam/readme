@@ -24,10 +24,7 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 
 ## DB design 
 * Read [DB design](design.md).
-* DB structure pdf [file](db_design.pdf).
-* DB relation pdf [file](db_design_1.pdf).
-* DB relation png [file](db_design.png).
-   
+  
 ## Test report
 * In TDD we use phpunit as unit test for each units to application.
 * The unit testing falled into path `tests` directory which contains two directory.

@@ -21,4 +21,4 @@ that falled into path `public/assets/admin/css`.
 * We use `helper.php` file which contains some function like `currentLanguage()` which get current application
 language, `getCurrentLocal()` which specific current application local whether it's `ar` or `en`, `languages()` to get application
 languages.
-* We also use ImageHelper class to upload files and and resize images.
+* We also use ImageHelper class to upload files and resize images.
