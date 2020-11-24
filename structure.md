@@ -1,3 +1,4 @@
+### Application structure:
 * Application based on laravel framework which use MVC pattern.
 * Models: it's path falled into `App` directly.
 * Views: it's path falled into `resources\views`.
