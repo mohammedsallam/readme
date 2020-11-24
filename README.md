@@ -6,8 +6,6 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Structure](#structure)
-  - [Notes about view](#notes-about-view)
-  - [Common functions](#common-functions)
 - [DB design](#db-design)
 - [Test report](#test-report)
 
