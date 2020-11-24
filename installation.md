@@ -1,4 +1,4 @@
-* To install project follow next steps.
+## To install project follow next steps.
     
     1- Install composer.
     
