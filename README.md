@@ -22,7 +22,7 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 ## Structure
 * Read structure: [Here](structure.md).
 
-## DB Design 
+## DB design 
 * Read [DB design](design.md).
 * DB structure pdf [file](db_design.pdf).
 * DB relation pdf [file](db_design_1.pdf).
