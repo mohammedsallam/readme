@@ -5,7 +5,7 @@
 * Controllers: it's path falled into `App\Http\Controllers`.
 * Languages: it's path falled into  `resources\lang`.
   
-### notes about view: 
+### Notes about view: 
 
 * CMS admin have master layouts that other modules layouts inherit it.
 * Every module has 3 base files index to list data, 
