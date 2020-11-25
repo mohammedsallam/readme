@@ -32,7 +32,22 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 * The second is `Unit` for test small unit for module.
 * In common we use `Feature` directory for test application.
 * Every module have test file for it.
-* To run unit test execute the next command.
-```php 
-"./vendor/bin/phpunit" --filter UnitTestClassName
-```
+* To run specific class execute either of two following commands.
+
+`"./vendor/bin/phpunit" --filter UnitTestClassName` |
+`php artisan test --filter UnitTestClassName`
+
+* To run specific method execute either of two following commands.
+`"./vendor/bin/phpunit" --filter methodName` |
+`php artisan test --filter methodName`
+    
+* To run all unit test execute either of two following commands.
+`"./vendor/bin/phpunit"` |
+`php artisan test `
+* To Export report for test execute following command.
+`./vendor/bin/phpunit --coverage-html report_path`
+
+
+
+
+
