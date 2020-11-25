@@ -43,10 +43,10 @@ php artisan test --filter UnitTestClassName
 
 * To run specific method execute either of two following commands.
 ```php 
-"./vendor/bin/phpunit" --filter methodName
+"./vendor/bin/phpunit" --filter MethodName
 ```
 ```php 
-php artisan test --filter methodName
+php artisan test --filter MethodName
 ```
    
 * To run all unit test execute either of two following commands.
@@ -58,7 +58,7 @@ php artisan test
 ```
 * To Export report for test execute following command.
 ```php 
-./vendor/bin/phpunit --coverage-html report_path
+./vendor/bin/phpunit --coverage-html ReportPath
 ```
 
 
