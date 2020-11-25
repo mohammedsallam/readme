@@ -34,18 +34,32 @@ like `Categories`, `Articles`, `Video categories`, `Videos`, `Photo galleries`,
 * Every module have test file for it.
 * To run specific class execute either of two following commands.
 
-`"./vendor/bin/phpunit" --filter UnitTestClassName` |
-`php artisan test --filter UnitTestClassName`
+```php 
+"./vendor/bin/phpunit" --filter UnitTestClassName
+```
+```php 
+php artisan test --filter UnitTestClassName
+```
 
 * To run specific method execute either of two following commands.
-`"./vendor/bin/phpunit" --filter methodName` |
-`php artisan test --filter methodName`
-    
+```php 
+"./vendor/bin/phpunit" --filter methodName
+```
+```php 
+php artisan test --filter methodName
+```
+   
 * To run all unit test execute either of two following commands.
-`"./vendor/bin/phpunit"` |
-`php artisan test `
+```php 
+php artisan test
+```
+```php 
+"./vendor/bin/phpunit"
+```
 * To Export report for test execute following command.
-`./vendor/bin/phpunit --coverage-html report_path`
+```php 
+./vendor/bin/phpunit --coverage-html report_path
+```
 
 
 
